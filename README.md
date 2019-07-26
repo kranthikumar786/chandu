@@ -1,2 +1,8 @@
-# chandu
-Hai guys this is my first repository on GitHub 
+My planning is to build on "I live in a different location".
+While Registration process as a voter s/he has filled A form-6,its contain contact number row(optional).we shall generate a OTP for voter based on OTP voter can cost vote.
+"Reliance Jio using satellites to offer 4G services in rural, remote areas; takes capacity from ISRO(GSAT-31)::source(ETTelecom.com September 10, 2018, 23:00 IST)" as this process is going on in next 5  years it will reach the GOAL.
+Mobile Backhaul (GSAT-31) is the process of connecting cell site air interfaces to wireline networks, which are subsequently connected to data centers that host the content and applications accessed by mobile users—both human and machine.
+Economically it is not very much cost because of Reliance Jio providing services as their network growth with less amount of cost ,but for cloud and Technology using is requires(iam not sure regarding cost)
+Scablibility of my plan out put is good because of who turns 18 years indian having smartphone the details as follows 18-24,25-34,35-44,are having 98%,97%,96% using of mobile by ages,pcrcentages respectively
+As Technology, for datasets using opensources and  Blockchain Technology involvement shall be there because of the following application i can achive 1)Simple development 2)Keep my(our) data secure and scale when i(we) need to—on an open, trusted, globally available cloud platform 3)i have built-in connection to Azure4)Blockchain using cryptography (i.e.more secure).5)Blockchain it self it is a transparent and verifiable system 
+as came to  Relavent their is no problem for genetating OTP for voter cost with help of Reliance Jio(it is working as  a part of digital India) while voter is costing alter of Mobile Backhaul will be then securely vote(s) shall be share to distributed or decentralized using more secure,more transparent ,reduces the risk of fraud,eliminates waste if any using AzureBlockchain.And Blockchain it self is verifiable system and Detective(Transparent) so cost of online voting shall be "SECURE"      
